@@ -1,0 +1,9 @@
+# Java class files
+*.class
+
+# generated files
+bin/
+
+# Android Studio
+*.iml
+.idea
